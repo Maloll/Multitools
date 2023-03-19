@@ -1,2 +1,2 @@
-# Multitools
-Mutitools to make life easier
+# Wifi Multitool
+Make wifi info easier
